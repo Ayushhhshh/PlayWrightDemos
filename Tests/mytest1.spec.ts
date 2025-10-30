@@ -1,6 +1,4 @@
 import {test,expect} from "@playwright/test"
-import { title } from "process";
-
 
 test("Verify Page URL",async  ({page})=>{
  
